@@ -4,7 +4,7 @@ document.getElementById("Form").addEventListener("submit", function(event) {
     var password = document.getElementById("text").value;
 
     if (password === "somos") {
-        window.location.href = "../pages/iniciais-matematicas.html";
+        window.location.href = "../pages/representacoes-matematicas.html";
     } else {
         alert("Senha incorreta. Tente novamente.");
     }
