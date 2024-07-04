@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #000000;
+    flex-direction: column;
+}
+
+
+h1 {
+    color: aliceblue;
+}
+
+a {
+    color: black;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 25px;
+    background-color: aliceblue;
+}
